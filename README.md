@@ -2,21 +2,21 @@
 - 👀 I’m interested in leveraging data to build products that can help mankind solve problems 1 gigabyte at a time
 - 🌱 I’m currently learning how to build world-class products with a data-driven mindset
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning, Product Development projects
-- 📫 You can reach me at ycj2103@columbia.edu and +1 (332) 201-8455
+- 📫 You can reach me at ayush.raj@columbia.edu
 
-<!---![](https://komarev.com/ghpvc/?username=yash-jain7)--->
+<!---![](https://komarev.com/ghpvc/?username=Ay-Raj)--->
 
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/yash-jain7/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/Ay-Raj/count.svg" alt="" /></td>
   </tr>
 </table>
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-jain7&hide=contribs,prs)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ay-Raj&hide=contribs,prs)
 
 
 <!---
-yash-jain7/yash-jain7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ay-Raj/Ay-Raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
